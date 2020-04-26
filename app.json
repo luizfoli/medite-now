@@ -1,0 +1,17 @@
+{
+  "name": "meditenow",
+  "displayName": "meditenow",
+  "expo": {
+    "name": "meditenow",
+    "slug": "meditenow",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
